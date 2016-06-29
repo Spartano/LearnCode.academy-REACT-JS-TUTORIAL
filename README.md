@@ -1,4 +1,6 @@
-# React Boilerplate
+# React Boilerplate for Second Project on YouTube 
+
+https://www.youtube.com/watch?v=1iAG6h9ff5s&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=6
 
 A basic React Project setup using webpack.
 
