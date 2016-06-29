@@ -17,14 +17,14 @@ Download the repository to your computer and follow the usage guide below.
 Get a react environment set up quickly with this boilerplate.
 
 It includes all the modules you need. All you need to do is download the project, unzip it, run node and start building.
-First install everithing then run the webpack dev server
+First install everything then run the webpack dev server
 
 ```
 npm install
 npm run dev
 ```
 
-This will get your app running on http://localhost:8080/webpack-dev-server/index.html.
+This will get your app running on http://localhost:8080
 
 Webpack will watch for changes and update the browser when a file is changed.
 
